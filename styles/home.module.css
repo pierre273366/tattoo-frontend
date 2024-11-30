@@ -1,0 +1,47 @@
+.containerLogin {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  height: 100vh;
+}
+
+.leftContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tattoo {
+  width: 100%;
+  height: 100%;
+}
+
+.rightContainer {
+  background-color: black;
+  padding: 30px;
+}
+
+#h1 {
+  font-size: 5rem;
+  color: white;
+  font-weight: 900;
+}
+
+#h2 {
+  color: white;
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+#btnSignUp {
+  padding: 15px 30px;
+  border-radius: 20px;
+}
+
+#p {
+  color: white;
+}
+
+#btnSignIn {
+  padding: 15px 30px;
+  border-radius: 20px;
+}
